@@ -1,4 +1,6 @@
 print("Hola soy Anderson")
 print("me encantó el arroz chino")
+print("hola soy Daniela")
+print("no me gustó el arroz china dac")
 print("Hola soy Daniela")
 print("me encanto el arroz chino dot")
