@@ -1,4 +1,4 @@
-print("Hola soy Sebastian")
-print("me encanta el arroz chino SES")
+print("hola soy Daniela")
+print("no me gustó el arroz china dac")
 print("Hola soy Daniela")
 print("me encanto el arroz chino dot")
