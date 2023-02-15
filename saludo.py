@@ -1,3 +1,5 @@
+print("Hola soy Sebastian")
+print("me encanto el arroz chino SES")
 print("Hola soy Jimena")
 print("me encanto el arroz chino JSG")
 print("hola soy Daniela")
